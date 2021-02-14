@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	background-color: #f7f3ef;
+	font-family: "Lora", sans-serif;
+	font-size:18px;
+	margin:0px;
+	text-align:center;
+	line-height: 0.9;
+	color:#781212;
+}
+
+a{
+	text-decoration: none;
+	color:#781212;
+}
+
+a:hover{
+	color:white;
+	text-decoration:underline;
+}
